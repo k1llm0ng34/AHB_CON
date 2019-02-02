@@ -1,0 +1,24 @@
+{
+    "AS_Form_ib383e271c3342dfb381451b711fd33c": {
+        "id": "AS_Form_ib383e271c3342dfb381451b711fd33c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmMultiPayments",
+            "type": "forms",
+            "platform": null,
+            "KUID": "f8d0c644ef1144d9900d5fad82481e8f"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__b789521124b44dcbaa7d5d7fb1142212",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.init();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

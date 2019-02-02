@@ -1,0 +1,31 @@
+{
+    "AS_TextField_c9f9644e77a244bab18faa5a7014b807": {
+        "id": "AS_TextField_c9f9644e77a244bab18faa5a7014b807",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "contextObj": {
+            "name": "frmAHBRegCardNumber",
+            "type": "forms",
+            "platform": "",
+            "KUID": "gf8dcbafa7a14a42b47e445cfa00de48"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___d0fab435967844f38a106bfe7d5de74c",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "CaptureDetails",
+            "display": "CaptureDetails",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

@@ -1,0 +1,27 @@
+{
+  "android": {
+    "font_name": "Cairo-Regular",
+    "font_size": 290,
+    "isForked": true
+  },
+  "background_color": "ffffff00",
+  "bg_type": "one",
+  "border_color": "333333ff",
+  "border_style": "plain",
+  "border_type": 0,
+  "border_width": 0,
+  "fontSizeInPx": false,
+  "font_color": "000000ff",
+  "font_name": "iphoneSystem",
+  "font_size": 280,
+  "font_style": "normal",
+  "font_weight": "normal",
+  "iphone": {
+    "font_name": "Cairo-Regular",
+    "font_size": 116,
+    "isForked": true
+  },
+  "isDefaultSkin": false,
+  "kuid": "s5e52fd1d8c24be9a81d3eb408c3f2bb",
+  "wType": "TextField"
+}

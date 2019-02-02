@@ -1,0 +1,59 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s8fb9562b3054a4ea07de2e08c8dc08e",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "10.37%"
+    },
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s8fb9562b3054a4ea07de2e08c8dc08e",
+    "id": "btnForgotPin",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "f986d2a4225b42deb5c6f99608c0ffbe",
+    "masterType": 1,
+    "name": "kony.ui.Button",
+    "parent": "flxLoginContent",
+    "pf": "frmAHBLanding",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "texti18n": "kony.AHB.Login.Forget",
+    "wType": "Button",
+    "zindex": 1
+}

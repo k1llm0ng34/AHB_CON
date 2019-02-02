@@ -1,0 +1,27 @@
+{
+    "AS_TextField_gd58bf2f936e4265a8e9574515aee7b1": {
+        "id": "AS_TextField_gd58bf2f936e4265a8e9574515aee7b1",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "contextObj": {
+            "name": "frmAHBRegCardNumber",
+            "type": "forms",
+            "platform": "",
+            "KUID": "gf8dcbafa7a14a42b47e445cfa00de48"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__hc0236e548fa4b1fb43a2cd3099d2102",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.CaptureDetails();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

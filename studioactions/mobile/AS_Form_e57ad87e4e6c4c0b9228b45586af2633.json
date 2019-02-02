@@ -1,0 +1,28 @@
+{
+    "AS_Form_e57ad87e4e6c4c0b9228b45586af2633": {
+        "id": "AS_Form_e57ad87e4e6c4c0b9228b45586af2633",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAHBCharityPayments",
+            "type": "forms",
+            "platform": "",
+            "KUID": "f8921f74ddca46558391854c05f0f697"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___fb0fec02e1914be3a2eaeee11af6e45f",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "init",
+            "display": "init",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

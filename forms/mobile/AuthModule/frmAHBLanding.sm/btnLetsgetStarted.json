@@ -1,0 +1,60 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "10%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        2,
+        0,
+        2
+    ],
+    "_skin_": "s7ee8e868b8e4710b07962cf790dcb20",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "15.50%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "80%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s7ee8e868b8e4710b07962cf790dcb20",
+    "id": "btnLetsgetStarted",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "c57cb9b8d275434daf2ea39e2175aab6",
+    "masterType": 1,
+    "name": "kony.ui.Button",
+    "paddinginpixel": false,
+    "parent": "flxRegistrationContent",
+    "pf": "frmAHBLanding",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "texti18n": "kony.AHB.Login.Register.CardNumber",
+    "wType": "Button",
+    "zindex": 1
+}

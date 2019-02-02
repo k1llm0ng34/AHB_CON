@@ -1,0 +1,34 @@
+{
+    "AS_TextField_d0825e0a1db14600b1586e1f535dbe6f": {
+        "id": "AS_TextField_d0825e0a1db14600b1586e1f535dbe6f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "contextObj": {
+            "KUID": "b62eab17528a4a629e9e3ab2371b9661",
+            "name": "frmAHBRegConfirmOTP",
+            "platform": "",
+            "type": "forms"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___cb2f227f67474f4cbbfb717c417cadca",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "ShiftToNextTextBox",
+            "display": "ShiftToNextTextBox",
+            "inputparams": [{
+                "name": "eventObj",
+                "value": "eventobject"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

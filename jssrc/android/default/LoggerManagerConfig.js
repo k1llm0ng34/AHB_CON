@@ -1,0 +1,8 @@
+LoggerManagerConfig = {
+    "BusinessControllerConfig": {
+        "BusinessControllerClass": "LoggerManager/BusinessControllers/BusinessController",
+        "CommandHandler": []
+    },
+    "Forms": {},
+    "ModuleName": "LoggerManager"
+};

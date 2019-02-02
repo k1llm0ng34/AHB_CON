@@ -1,0 +1,160 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "lblAccountName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Salik"
+            },
+            "lblAmount": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "4.00 AED"
+            },
+            "lblNickName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Mobile"
+            },
+            "lblRefNum": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "009020"
+            }
+        },
+        {
+            "lblAccountName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Salik"
+            },
+            "lblAmount": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "4.00 AED"
+            },
+            "lblNickName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Mobile"
+            },
+            "lblRefNum": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "009020"
+            }
+        },
+        {
+            "lblAccountName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Salik"
+            },
+            "lblAmount": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "4.00 AED"
+            },
+            "lblNickName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Mobile"
+            },
+            "lblRefNum": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "009020"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "25%"
+    },
+    "_indicator_": "none",
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "3%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "96%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "counter": "02",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segFailedPaymts",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "none",
+            "showProgressIndicator": false
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "d0a5f71c38274355a6ebac0695e15f31",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "flxMainContainer",
+    "pf": "frmMultiPayments",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainselection": false,
+    "rowTemplateId": "j5badbe95ed749cc8495b78eccb0e391",
+    "rowcounter": 2,
+    "rowfocusskin": "sec47134c53840738acea176209ff716",
+    "rowskin": "s18472307db04580a2a9cb6f4681ebec",
+    "rowtemplate": "flxMultiPayment",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "s65e8b0a8be54624ac979cda71a22cac",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorrequired": false,
+    "showprogressindicator": false,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "flxBottom": "flxBottom",
+        "flxMultiPayment": "flxMultiPayment",
+        "flxSeparator": "flxSeparator",
+        "flxTopSection": "flxTopSection",
+        "lblAccountName": "lblAccountName",
+        "lblAmount": "lblAmount",
+        "lblNickName": "lblNickName",
+        "lblRefNum": "lblRefNum"
+    },
+    "zindex": 1
+}

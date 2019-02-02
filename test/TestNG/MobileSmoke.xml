@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="MobileBanking" configfailurepolicy="continue">
+  <test name="MobileBankingMobile_Smoke">
+     <classes>
+     <class name="test.MobileBanking.tests.TestfrmLogIn">
+				<methods>
+					<include name="invalidLogin"/>
+					<include name="login"/>
+				</methods>
+      </class>
+      
+     
+      
+   </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

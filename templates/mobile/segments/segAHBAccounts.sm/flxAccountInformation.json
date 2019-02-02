@@ -1,0 +1,67 @@
+{
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "89%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s7b436962d6a4647b197083ac7d03d39",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    
+    "canUpdateUI": true,
+    "children": [
+        "flxAccounts",
+        "imgInfo"
+    ],
+    "clipbounds": true,
+    "containerId": true,
+    "containerweight": 100,
+    "controllerInfo": {
+        "default": {
+            "channel": "mobile",
+            "name": "flxAccountInformationController"
+        }
+    },
+    "defaultunit": 3,
+    "enablescrolling": true,
+    "id": "flxAccountInformation",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "b8d80c80859e4ffaa745075210ee6552",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "segAHBAccounts",
+    "pf": "segAHBAccounts",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "snapgridsize": 10,
+    "snaptogrid": false,
+    "wType": "FlexContainer",
+    "widgetalignment": 1
+}

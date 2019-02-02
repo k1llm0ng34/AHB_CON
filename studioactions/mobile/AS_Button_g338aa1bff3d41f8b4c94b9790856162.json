@@ -1,0 +1,24 @@
+{
+    "AS_Button_g338aa1bff3d41f8b4c94b9790856162": {
+        "id": "AS_Button_g338aa1bff3d41f8b4c94b9790856162",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAHBLanding",
+            "type": "forms",
+            "platform": "",
+            "KUID": "b7a115253f334ea8ac2b9be420d6c31c"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__e42fa7e7a1d444c18268aea77498953d",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "onClickEnglish();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

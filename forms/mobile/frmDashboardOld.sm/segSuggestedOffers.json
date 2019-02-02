@@ -1,0 +1,157 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "Image0b4d71c21719d46": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "adimage.png"
+            },
+            "Label0f4afc9d4b12f46": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Get Home Loans from ANZ Bank with 4.9% per annum interest rate "
+            },
+            "rtxDetails": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Get Home Loans from ANZ Bank with 4.95 per <br/> annum  interest rates and get free... <a href=\"\"> <b>Learn More </b></a>"
+            }
+        },
+        {
+            "Image0b4d71c21719d46": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "adimage.png"
+            },
+            "Label0f4afc9d4b12f46": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Get Home Loans from ANZ Bank with 4.9% per annum interest rate "
+            },
+            "rtxDetails": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Get Home Loans from ANZ Bank with 4.95 per <br/> annum  interest rates and get free... <a href=\"\"> <b>Learn More </b></a>"
+            }
+        },
+        {
+            "Image0b4d71c21719d46": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "adimage.png"
+            },
+            "Label0f4afc9d4b12f46": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Get Home Loans from ANZ Bank with 4.9% per annum interest rate "
+            },
+            "rtxDetails": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Get Home Loans from ANZ Bank with 4.95 per <br/> annum  interest rates and get free... <a href=\"\"> <b>Learn More </b></a>"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "355dp"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "android": {
+        "psp": {
+            "dockSectionHeaders": true
+        }
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "02",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": true,
+    "hasSections": false,
+    "id": "segSuggestedOffers",
+    "info": null,
+    "invokedProperty": "pageOffDotImage",
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "none"
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "ed75f31f805d4336846afdddb193a474",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "paddinginpixel": false,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom",
+        "vdistance": 1
+    },
+    "parent": "flxSuggestedOffers",
+    "pf": "frmDashboardOld",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainselection": false,
+    "rowTemplateId": "ab55ac1f41994144b3354974dc98665a",
+    "rowcounter": 2,
+    "rowfocusskin": "sec47134c53840738acea176209ff716",
+    "rowskin": "s18472307db04580a2a9cb6f4681ebec",
+    "rowtemplate": "flxSuggestedOffers",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "s65e8b0a8be54624ac979cda71a22cac",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorrequired": false,
+    "showscrollbars": false,
+    "swipeContext": {
+        "currentPage": 0,
+        "imageWidth": 0,
+        "widthRatio": 0
+    },
+    "viewtype": "pageview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "FlexContainer0eaac9591d28d4a": "FlexContainer0eaac9591d28d4a",
+        "Image0b4d71c21719d46": "Image0b4d71c21719d46",
+        "Label0f4afc9d4b12f46": "Label0f4afc9d4b12f46",
+        "flxSuggestedOffers": "flxSuggestedOffers",
+        "flxTypeOneShadow": "flxTypeOneShadow",
+        "rtxDetails": "rtxDetails"
+    },
+    "zindex": 1
+}

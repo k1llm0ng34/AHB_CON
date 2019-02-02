@@ -1,0 +1,73 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "86%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "se28cc5c1bfa437abc8dd58cd5603f3a",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "canUpdateUI": true,
+    "children": [
+        "browserChart",
+        "flxDonutSegment",
+        "lblWelcomeBack",
+        "lblTotalSpending",
+        "lblTotalSpendingValue",
+        "lblCurrencyIndication",
+        "flxDonut",
+        "flxDashboardSummary",
+        "lblLastLogin",
+        "flxSwipeUp",
+        "lblSwipeUp"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "flxGraph",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "b84ff89a455648c98d7cc3f2d9682b1d",
+    "layouttype": 4,
+    "minheight": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "name": "kony.ui.FlexContainer",
+    "parent": "flxDashboardHeader",
+    "pf": "frmDashboard",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

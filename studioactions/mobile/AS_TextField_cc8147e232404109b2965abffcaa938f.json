@@ -1,0 +1,37 @@
+{
+    "AS_TextField_cc8147e232404109b2965abffcaa938f": {
+        "id": "AS_TextField_cc8147e232404109b2965abffcaa938f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "KUID": "b7a115253f334ea8ac2b9be420d6c31c",
+            "name": "frmAHBLanding",
+            "platform": null,
+            "type": "forms"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___c0939c6485be4608894f04f296b58e08",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "setTextBoxPinFocus",
+            "display": "setTextBoxPinFocus",
+            "inputparams": [{
+                "name": "eventObj",
+                "value": "eventobject"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "AS_Button_fd93d44e6a264ee3910b3e9289074726": {
+        "id": "AS_Button_fd93d44e6a264ee3910b3e9289074726",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_c682ff613e274b399dfcc8cc2c64d775",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.authenticateUser({\n  'username':'nvkirankumar',\n  'password':'Kony@12345',\n  'identityServiceName':'IdentityProviderBank2'\n});",
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,128 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "lblBenficiaryNumber": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "AE12 1234 5678 9012 3456 7890"
+            },
+            "lblNickName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Nickname"
+            },
+            "lblSurName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "<<<<<<<<<Name>>>>>>>>>"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "2.25%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "android": {
+        "psp": {
+            "dockSectionHeaders": true
+        }
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "00",
+    "enabledictionary": true,
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segCharity",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "enableDictionary": true,
+            "indicator": "none"
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "db7d7e6aabbf4adbb10dc55b08eba9ac",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "paddinginpixel": false,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "flxMainContainer",
+    "pf": "frmAHBCharityPayments",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainselection": false,
+    "rowTemplateId": "d86c63f9a866498c8e7c8ae400c27c85",
+    "rowcounter": 0,
+    "rowfocusskin": "s02d7ca459a74168b4573e79b9d8efec",
+    "rowskin": "s18472307db04580a2a9cb6f4681ebec",
+    "rowtemplate": "flxBenificiaryMain",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionHeaderTemplateId": null,
+    "sectionheaderskin": "s65e8b0a8be54624ac979cda71a22cac",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorrequired": false,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "flxArrow": "flxArrow",
+        "flxBenificiaryMain": "flxBenificiaryMain",
+        "flxFirstRow": "flxFirstRow",
+        "flxSecondRow": "flxSecondRow",
+        "flxSeparator": "flxSeparator",
+        "lblBenficiaryNumber": "lblBenficiaryNumber",
+        "lblNickName": "lblNickName",
+        "lblRightArrow": "lblRightArrow",
+        "lblSurName": "lblSurName"
+    },
+    "widgetskin": "s69f28c050df43fb9bf92e79f4534943",
+    "zindex": 1
+}

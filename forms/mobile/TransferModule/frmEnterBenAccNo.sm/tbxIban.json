@@ -1,0 +1,74 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "60%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        3,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "",
+    "_skin_": "s8bcaa1ee71446249f3e707dfcc7d607",
+    "_text_": "",
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "android": {},
+    "autocapitalize": "all",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {
+        "placeholderSkin": "s8bcaa1ee71446249f3e707dfcc7d607"
+    },
+    "focusskin": "s8bcaa1ee71446249f3e707dfcc7d607",
+    "id": "tbxIban",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showClearButton": false,
+            "showCloseButton": true,
+            "showProgressIndicator": false
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "keyboardtype": "A",
+    "kuid": "f16952099a4d4c0999bb2edc5548cbb8",
+    "maxtextlength": 34,
+    "mode": "A",
+    "name": "kony.ui.TextBox2",
+    "parent": "flxIbanContainer",
+    "pf": "frmEnterBenAccNo",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "securetextentry": false,
+    "showclearbutton": false,
+    "showoprogressindicator": false,
+    "textinputmode": "A",
+    "tooltip": "",
+    "viewtype": "default",
+    "wType": "TextField",
+    "zindex": 1
+}

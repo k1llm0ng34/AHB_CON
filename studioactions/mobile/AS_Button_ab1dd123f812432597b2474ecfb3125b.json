@@ -1,0 +1,24 @@
+{
+    "AS_Button_ab1dd123f812432597b2474ecfb3125b": {
+        "id": "AS_Button_ab1dd123f812432597b2474ecfb3125b",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAccountDetails",
+            "type": "forms",
+            "platform": "",
+            "KUID": "bfd8d167d39f4048b325cec1c7aaa4dd"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__a69ae78b1ca1461e8d53e1b9156c35ce",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.ChecksView();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

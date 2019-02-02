@@ -1,0 +1,24 @@
+{
+    "AS_Button_c0f36b85412241f692e7a1e34cefa062": {
+        "id": "AS_Button_c0f36b85412241f692e7a1e34cefa062",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAHBRegCreateAppPin",
+            "type": "forms",
+            "platform": "",
+            "KUID": "f495e9c99d894696b61085af36ceca1f"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__b5b7dcf15db646c1969717d8040738b5",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.onConfirmClick();\n//this.authenticateResetPin();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

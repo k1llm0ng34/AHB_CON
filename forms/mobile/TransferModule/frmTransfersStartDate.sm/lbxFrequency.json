@@ -1,0 +1,88 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizListBox",
+    "DNDConfig": null,
+    "Default": {
+        "contentAlignment": 4
+    },
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "Select",
+    "_right_": {
+        "type": "string",
+        "value": "4%"
+    },
+    "_skin_": "sf0a5cb0daca42de9c60f087ac7cc2e9",
+    "_width_": {
+        "type": "string",
+        "value": "50%"
+    },
+    "android": {
+        "psp": {}
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 6,
+    "disabledSkins": {
+        "placeholderSkin": "s4d33f0e66fd41a6b6d31371d24b80cd"
+    },
+    "dropdownimage": "ahbarrowdown1.png",
+    "focusskin": "sf0a5cb0daca42de9c60f087ac7cc2e9",
+    "groupcells": false,
+    "id": "lbxFrequency",
+    "info": null,
+    "iphone": {
+        "dropDownImage": "listboxarw1.png"
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "b05dc5e9480e4577becc33168b47f7c7",
+    "masterdata": [
+        [
+            "Key228458414",
+            "Select"
+        ]
+    ],
+    "name": "kony.ui.ListBox",
+    "paddinginpixel": false,
+    "parent": "flxSelectFrequency",
+    "pf": "frmTransfersStartDate",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "selectedkey": "Key228458414",
+    "selectedkeys": null,
+    "selectedkeyvalue": [
+        "Key228458414",
+        "Select"
+    ],
+    "selectedkeyvalues": null,
+    "size": 18,
+    "tickedimage": "radiobtnselectedorange.png",
+    "untickedimage": "radiobtnunselectedorange.png",
+    "viewconfig": {
+        "toggleViewConfig": {
+            "viewStyle": 0
+        }
+    },
+    "viewtype": 0,
+    "wType": "ListBox",
+    "zindex": 1
+}

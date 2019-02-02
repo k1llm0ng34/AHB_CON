@@ -1,0 +1,30 @@
+{
+    "AS_Segment_g930f4f0902f48eea6b32e0701afe3bb": {
+        "id": "AS_Segment_g930f4f0902f48eea6b32e0701afe3bb",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "name": "frmDashboard",
+            "type": "forms",
+            "platform": "",
+            "KUID": "j5f6b4ea75f3470dad1a09f2afcf0c09"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__f85e5fdf31884fa7b47e953ff1bfbc95",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.gotoIntermediateAccountsScreen();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

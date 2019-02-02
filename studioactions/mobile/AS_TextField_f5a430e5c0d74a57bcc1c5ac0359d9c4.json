@@ -1,0 +1,30 @@
+{
+    "AS_TextField_f5a430e5c0d74a57bcc1c5ac0359d9c4": {
+        "id": "AS_TextField_f5a430e5c0d74a57bcc1c5ac0359d9c4",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "KUID": "gf8dcbafa7a14a42b47e445cfa00de48",
+            "name": "frmAHBRegCardNumber",
+            "platform": "",
+            "type": "forms"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__d3dc76dfa84b4811b46addfd871b605a",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.view.lblCardNoHolder.skin=\"sknAHBBff6d00\";",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "42dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s09dcfb218c441e585abe438fc3e9ee4",
+    "_text_": "",
+    "_width_": {
+        "type": "string",
+        "value": "85%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "s09dcfb218c441e585abe438fc3e9ee4",
+    "id": "btnContinue",
+    "ide_onClick": "AS_Button_jf9de2a245f04ad79bce9b4de67dc9c9",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "f8a19c468b2a4c2690d97dae0ec4f283",
+    "name": "kony.ui.Button",
+    "parent": "flxbtnConfirm",
+    "pf": "frmBillPayConfirmation",
+    "texti18n": "kony.ahb.payments.confirmAndPay",
+    "wType": "Button",
+    "zindex": 1
+}

@@ -1,0 +1,60 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "95%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "2%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s9d4c69462794afc81d16e2ca0cf54c2",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "15%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s9d4c69462794afc81d16e2ca0cf54c2",
+    "id": "btnArabicLogin",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "iscustomlayout": true,
+    "isvisible": true,
+    "kuid": "b475af7852e04e16b3fd5487b4b00e24",
+    "masterType": 1,
+    "name": "kony.ui.Button",
+    "paddinginpixel": false,
+    "parent": "flxLanguageBtnGrouplogin",
+    "pf": "frmAHBLanding",
+    "retaincontentalignment": true,
+    "retainflexpositionproperties": true,
+    "texti18n": "kony.AHB.Login.Arabic",
+    "wType": "Button",
+    "zindex": 1
+}

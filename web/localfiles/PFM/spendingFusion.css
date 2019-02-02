@@ -1,0 +1,38 @@
+/*Type your css here*/
+body{
+   padding:0px;
+  margin:0px;
+}
+.spendingContainer{
+  
+}
+
+.fusioncharts-container{
+  
+  position:absolute;
+  width:100% !important;
+  height:220px !important;
+  left: 0px !important;
+  right: 0px !important;
+  background-color:transparent;
+}
+.bgContainer{
+  position:absolute;
+  top:0px;
+  left:0px;
+  height:100%;
+  width:100%;
+  background: -webkit-linear-gradient(top, #1a98ff 0%,#0a78D1 100%); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to bottom, #1a98ff 0%,#0a78D1 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+}
+#raphael-paper-0{
+  
+  background-color:rgba(0,0,0,0) !important;
+}
+#chartobject-1{
+  width:100% !important;
+}
+.raphael-group-3-creditgroup{
+  opacity:0 !important;
+ 
+}

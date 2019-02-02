@@ -1,0 +1,203 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        [
+            {
+                "imgFilter": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "filters.png"
+                },
+                "lblHeader": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Transactions"
+                }
+            },
+            [
+                {
+                    "lblAccountBal": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Returned"
+                    },
+                    "lblAccountBalValue": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "200.00"
+                    },
+                    "lblAccountName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "556565"
+                    },
+                    "lblCurrency": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "AED"
+                    },
+                    "lblTransactionDate": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "02/03/2018"
+                    }
+                },
+                {
+                    "lblAccountBal": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Debited"
+                    },
+                    "lblAccountBalValue": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "000.00 "
+                    },
+                    "lblAccountName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "4332"
+                    },
+                    "lblCurrency": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "AED"
+                    },
+                    "lblTransactionDate": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "02/03/2018"
+                    }
+                },
+                {
+                    "lblAccountBal": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Credited"
+                    },
+                    "lblAccountBalValue": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "100.00"
+                    },
+                    "lblAccountName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "76767"
+                    },
+                    "lblCurrency": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "AED"
+                    },
+                    "lblTransactionDate": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "02/03/2018"
+                    }
+                }
+            ]
+        ]
+    ],
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "android": {
+        "psp": {
+            "dockSectionHeaders": true
+        }
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "02",
+    "enabledictionary": true,
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": true,
+    "id": "segDepositFrom",
+    "ide_onRowClick": "AS_Segment_b37bc411d28a44fe91b2ec1d39c761c6",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "enableDictionary": true,
+            "indicator": "none"
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "f3b2b6df29974d53bcdf8da8cf08605f",
+    "masterdata": {},
+    "minheight": {
+        "type": "string",
+        "value": "85%"
+    },
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "flxMainContainer",
+    "pf": "frmCheckDeposit",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainselection": false,
+    "rowTemplateId": "f7f059c818704577adb426638fc18302",
+    "rowcounter": 2,
+    "rowfocusskin": "s02d7ca459a74168b4573e79b9d8efec",
+    "rowskin": "s18472307db04580a2a9cb6f4681ebec",
+    "rowtemplate": "flxTransactionsManage",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionHeaderTemplateId": "j7dd66fa273a4dd9984b34de26fcf5ac",
+    "sectionheaderskin": "s65e8b0a8be54624ac979cda71a22cac",
+    "sectionheadertemplate": "flxTransactionHeader",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "f1f1f100",
+    "separatorrequired": true,
+    "separatorthickness": 0,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "flxSeparator": "flxSeparator",
+        "flxSeperator": "flxSeperator",
+        "flxTransactionHeader": "flxTransactionHeader",
+        "flxTransactionsManage": "flxTransactionsManage",
+        "imgFilter": "imgFilter",
+        "lblAccountBal": "lblAccountBal",
+        "lblAccountBalValue": "lblAccountBalValue",
+        "lblAccountName": "lblAccountName",
+        "lblCurrency": "lblCurrency",
+        "lblHeader": "lblHeader",
+        "lblTransactionDate": "lblTransactionDate"
+    },
+    "widgetskin": "s69f28c050df43fb9bf92e79f4534943",
+    "zindex": 1
+}

@@ -1,0 +1,74 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "98%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "68.20%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "",
+    "_skin_": "s5e52fd1d8c24be9a81d3eb408c3f2bb",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "11%"
+    },
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "focusskin": "sbe8471a43094d2981444db80c53be84",
+    "id": "tbxPin4",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "keyboardActionLabel": 4
+        }
+    },
+    "iscustomlayout": true,
+    "isvisible": true,
+    "keyboardactionlabel": 4,
+    "keyboardstyle": "digitpad",
+    "keyboardtype": "A",
+    "kuid": "b7647ca20212462eb9316f9892eb8b82",
+    "maxtextlength": 1,
+    "mode": "N",
+    "name": "kony.ui.TextBox2",
+    "paddinginpixel": false,
+    "parent": "flxTextPin",
+    "pf": "frmAHBRegCreateAppPin",
+    "placeholderskin": "sc7ba661cdd2425eafe493714acf80c2",
+    "retaincontentalignment": true,
+    "retainflexpositionproperties": true,
+    "securetextentry": true,
+    "textinputmode": "N",
+    "tooltip": "",
+    "viewtype": "default",
+    "wType": "TextField",
+    "zindex": 1
+}

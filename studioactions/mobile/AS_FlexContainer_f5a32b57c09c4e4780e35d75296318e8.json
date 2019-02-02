@@ -1,0 +1,18 @@
+{
+    "AS_FlexContainer_f5a32b57c09c4e4780e35d75296318e8": {
+        "id": "AS_FlexContainer_f5a32b57c09c4e4780e35d75296318e8",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "KUID": "f495e9c99d894696b61085af36ceca1f",
+            "name": "frmAHBRegCreateAppPin",
+            "platform": "",
+            "type": "forms"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

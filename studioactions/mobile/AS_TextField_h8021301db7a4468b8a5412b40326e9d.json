@@ -1,0 +1,21 @@
+{
+    "AS_TextField_h8021301db7a4468b8a5412b40326e9d": {
+        "id": "AS_TextField_h8021301db7a4468b8a5412b40326e9d",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "contextObj": {
+            "name": "frmAHBRegCardNumber",
+            "type": "forms",
+            "platform": "",
+            "KUID": "gf8dcbafa7a14a42b47e445cfa00de48"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizListBox",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        3,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "Please Select",
+    "_right_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_skin_": "sf0a5cb0daca42de9c60f087ac7cc2e9",
+    "_width_": {
+        "type": "string",
+        "value": "50%"
+    },
+    "android": {
+        "contentAlignment": 6
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "containerweight": 100,
+    "contentalignment": 6,
+    "dropdownimage": "ahbarrowdown1.png",
+    "focusskin": "sf0a5cb0daca42de9c60f087ac7cc2e9",
+    "groupcells": false,
+    "id": "lbxChargesData",
+    "info": null,
+    "iphone": {
+        "dropDownImage": "listboxarw1.png"
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "j8988730a57e4075a4575dfe80f0d039",
+    "masterdata": [
+        [
+            "lb1",
+            "xxxx xxxx xxxx xxxx xxxx xxxx"
+        ],
+        [
+            "lb2",
+            "Placeholder Two"
+        ],
+        [
+            "lb3",
+            "Placeholder Three"
+        ]
+    ],
+    "name": "kony.ui.ListBox",
+    "paddinginpixel": false,
+    "parent": "flxChargesGroup",
+    "pf": "frmTransferAmount",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "selectedkeys": null,
+    "selectedkeyvalue": null,
+    "selectedkeyvalues": null,
+    "size": 18,
+    "tickedimage": "radiobtnselectedorange.png",
+    "untickedimage": "radiobtnunselectedorange.png",
+    "viewconfig": {
+        "toggleViewConfig": {
+            "viewStyle": 0
+        }
+    },
+    "viewtype": 0,
+    "wType": "ListBox",
+    "zindex": 1
+}

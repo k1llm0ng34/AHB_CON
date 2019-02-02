@@ -1,0 +1,92 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_children_": [],
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_render_": true,
+    "_skin_": "s966eaf1ea1441148b4828270a782f8b",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "areflexpropsreferenced": false,
+    "canUpdateUI": true,
+    "clipbounds": true,
+    "containerweight": 0,
+    "dataDiffs": {
+        "customPopup": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "aee9435ba359482ea8b3f92c82d2f4a5",
+                "srcKUID": "ie413e7d00ff441480a402d8b73f47f4",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxPopupWrapper": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "g093edb5670643188a005449951a4807",
+                "srcKUID": "f56145d08fa2451fb9475e5d2bc6a01d",
+                "wType": "FlexContainer"
+            }
+        },
+        "imgPopup": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "d91b6ca2e6dd41da9e2138da7d91c1b3",
+                "srcKUID": "f4638082e0dc4d7c9a5f12dbb322786e",
+                "wType": "Image"
+            }
+        },
+        "lblPopup": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "b051035f91c14c42804397eb95706397",
+                "srcKUID": "gc00deb3138044cd9f219a4d21d5533c",
+                "wType": "Label"
+            }
+        }
+    },
+    "id": "customPopup",
+    "info": null,
+    "iscustomlayout": false,
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "aee9435ba359482ea8b3f92c82d2f4a5",
+    "layouttype": 3,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "flxPopup",
+    "pf": "frmSupport",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "sourceUserWidget": "ie413e7d00ff441480a402d8b73f47f4",
+    "wType": "UserWidgetInstance"
+}

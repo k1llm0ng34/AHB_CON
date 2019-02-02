@@ -1,0 +1,60 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s672fc47ba584a4f9ae2582e98c1ef5d",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "3.90%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {},
+    "id": "rTxtContactUs",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "jf981049441e4325910ba3a63ff0c0c3",
+    "linkskin": "sb89eb29206448cdb00525d6f64dcbb6",
+    "name": "kony.ui.RichText",
+    "parent": "flxOTPScreen",
+    "pf": "frmAHBRegConfirmOTP",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "texti18n": "kony.AHB.Registration.NotYourNumber",
+    "wType": "RichText",
+    "widgetalignment": 5,
+    "winphone8": {
+        "psp": {
+            "enableCache": false
+        }
+    },
+    "zindex": 1
+}

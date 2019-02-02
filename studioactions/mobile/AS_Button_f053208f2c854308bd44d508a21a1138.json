@@ -1,0 +1,24 @@
+{
+    "AS_Button_f053208f2c854308bd44d508a21a1138": {
+        "id": "AS_Button_f053208f2c854308bd44d508a21a1138",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "Form2",
+            "type": "forms",
+            "platform": "",
+            "KUID": "a504093a7c5949d483ffe5b19bc84d40"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__c5a346dcbf54458cb48c87080e974c9f",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.onclickAfterOTP();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

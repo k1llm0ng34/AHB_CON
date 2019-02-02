@@ -1,0 +1,24 @@
+{
+    "AS_Button_cfb3690a19bd4cf6aef79ea772f58f74": {
+        "id": "AS_Button_cfb3690a19bd4cf6aef79ea772f58f74",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "Form3",
+            "type": "forms",
+            "platform": "",
+            "KUID": "ha49787c67624353b8ba19442601f57a"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__a0561b40afa8459b8e7df129a33758c4",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.checkForTouchId();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "AS_Image_edd1cccd00364fd2adba46675205e003": {
+        "id": "AS_Image_edd1cccd00364fd2adba46675205e003",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmAHBRegFaceId",
+            "type": "forms",
+            "platform": "",
+            "KUID": "h7772a2c8b604141b7397f0e0d04390c"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___jf7dbf1a94464243aa4936913c74a01e",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onBackFrmAHBRegFaceId",
+            "display": "onBackFrmAHBRegFaceId",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

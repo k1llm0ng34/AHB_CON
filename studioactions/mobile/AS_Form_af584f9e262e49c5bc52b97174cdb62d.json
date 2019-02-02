@@ -1,0 +1,24 @@
+{
+    "AS_Form_af584f9e262e49c5bc52b97174cdb62d": {
+        "id": "AS_Form_af584f9e262e49c5bc52b97174cdb62d",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmEditDeleteDeviceDetails",
+            "type": "forms",
+            "platform": "",
+            "KUID": "d04c15d44bb343fe97b2fc4c8693b69a"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__ja3fcdee5baa46b8be4a9c3e2c8aa85d",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.init();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

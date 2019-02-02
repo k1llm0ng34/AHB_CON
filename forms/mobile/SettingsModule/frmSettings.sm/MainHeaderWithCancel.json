@@ -1,0 +1,123 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_children_": [],
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_render_": true,
+    "_skin_": "s966eaf1ea1441148b4828270a782f8b",
+    "_top_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "areflexpropsreferenced": false,
+    "canUpdateUI": true,
+    "clipbounds": true,
+    "containerweight": 0,
+    "dataDiffs": {
+        "MainHeaderWithCancel": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "i1b856b8e9e644e8a571e8b8e01b422a",
+                "srcKUID": "f5eb969578d24c66af68e41bf3e8afc1",
+                "wType": "FlexContainer"
+            },
+            "height": {
+                "Default": {
+                    "type": "string",
+                    "value": "100%"
+                }
+            },
+            "top": {
+                "Default": {
+                    "type": "string",
+                    "value": "0%"
+                }
+            }
+        },
+        "btnBack": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "ic6a1640a06d4f2baa180d3c9da4a9b2",
+                "srcKUID": "a64a529f10bc4b23bc7219d7697ef935",
+                "wType": "Button"
+            }
+        },
+        "btnCancel": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "d8170fcd6fab47b48cd4fe6f6fb410f2",
+                "srcKUID": "cd87f3d87c514138b838d4d5cf3dfa39",
+                "wType": "Button"
+            },
+            "i18n_text": "kony.mb.common.Logout",
+            "text": "",
+            "top": {
+                "Default": {
+                    "type": "string",
+                    "value": "0dp"
+                }
+            }
+        },
+        "flxBack": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "ad5adf34a6044581b5721ed55cf36dd7",
+                "srcKUID": "i48575d2546640d383f739b0ad181182",
+                "wType": "FlexContainer"
+            }
+        },
+        "lblHeading": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "b9d58733a6c14db2abc121fb6f1c6d6a",
+                "srcKUID": "ddcd28cba5434a77948eb5c33b90e4f5",
+                "wType": "Label"
+            },
+            "i18n_text": "kony.mb.Hamburger.Settings",
+            "text": ""
+        }
+    },
+    "id": "MainHeaderWithCancel",
+    "info": null,
+    "iscustomlayout": false,
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "i1b856b8e9e644e8a571e8b8e01b422a",
+    "layouttype": 2,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "flxHeader",
+    "pf": "frmSettings",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "snaptogrid": true,
+    "sourceUserWidget": "f5eb969578d24c66af68e41bf3e8afc1",
+    "wType": "UserWidgetInstance"
+}

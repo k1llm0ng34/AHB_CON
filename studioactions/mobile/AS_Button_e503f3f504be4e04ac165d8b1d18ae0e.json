@@ -1,0 +1,18 @@
+{
+    "AS_Button_e503f3f504be4e04ac165d8b1d18ae0e": {
+        "id": "AS_Button_e503f3f504be4e04ac165d8b1d18ae0e",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAHBRegAccountNumber",
+            "type": "forms",
+            "platform": "",
+            "KUID": "e586e18809144f60b2dbf8ff377c8dab"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

@@ -1,0 +1,100 @@
+{
+  "android": {
+    "font_name": "Cairo-Regular"
+  },
+  "androidwearos": {
+    "font_name": "Helvetica",
+    "font_size": 116,
+    "isForked": false
+  },
+  "background_color": "00000000",
+  "bg_type": "one",
+  "border_color": "424242ff",
+  "border_style": "plain",
+  "border_type": 0,
+  "border_width": 0,
+  "desktopweb": {
+    "font_name": "Helvetica",
+    "font_size": 116,
+    "isForked": false
+  },
+  "fontSizeInPx": false,
+  "font_color": "ff6d00ff",
+  "font_name": "Helvetica",
+  "font_size": 116,
+  "font_style": "normal",
+  "font_weight": "normal",
+  "ipad": {
+    "font_name": "Helvetica",
+    "font_size": 116,
+    "isForked": false
+  },
+  "iphone": {
+    "font_name": "Cairo-Regular",
+    "font_size": 116,
+    "isForked": true
+  },
+  "isDefaultSkin": false,
+  "kiosk": {
+    "font_name": "None",
+    "font_size": 116,
+    "isForked": false
+  },
+  "kuid": "sb89eb29206448cdb00525d6f64dcbb6",
+  "spaan": {
+    "font_name": "Helvetica",
+    "font_size": 116,
+    "isForked": false
+  },
+  "spaandroidtablet": {
+    "font_name": "Helvetica",
+    "font_size": 116,
+    "isForked": false
+  },
+  "spabb": {
+    "font_name": "Helvetica",
+    "font_size": 116,
+    "isForked": false
+  },
+  "spaip": {
+    "font_name": "Helvetica",
+    "font_size": 116,
+    "isForked": false
+  },
+  "spaipad": {
+    "font_name": "Helvetica",
+    "font_size": 116,
+    "isForked": false
+  },
+  "spawindowstablet": {
+    "font_name": "Helvetica",
+    "font_size": 116,
+    "isForked": false
+  },
+  "spawinphone8": {
+    "font_name": "Helvetica",
+    "font_size": 116,
+    "isForked": false
+  },
+  "tabrcandroid": {
+    "font_name": "default",
+    "font_size": 116,
+    "isForked": false
+  },
+  "wType": "RichText",
+  "watchos": {
+    "font_name": "System",
+    "font_size": 116,
+    "isForked": false
+  },
+  "windows8": {
+    "font_name": "None",
+    "font_size": 116,
+    "isForked": false
+  },
+  "winphone8": {
+    "font_name": "None",
+    "font_size": 116,
+    "isForked": false
+  }
+}

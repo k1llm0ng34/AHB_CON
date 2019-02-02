@@ -1,0 +1,103 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_children_": [],
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_render_": true,
+    "_skin_": "s966eaf1ea1441148b4828270a782f8b",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "areflexpropsreferenced": false,
+    "canUpdateUI": true,
+    "clipbounds": true,
+    "containerweight": 0,
+    "dataDiffs": {
+        "Details": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "h5ce319c215d44b5b92734170f80466a",
+                "srcKUID": "bcf10d5a40634ed190f4a86f80543ea3",
+                "wType": "FlexContainer"
+            }
+        },
+        "lblAccountBalance": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "e6df0423a35c40cdbb96dd63a4590fd1",
+                "srcKUID": "h24a8efe6f494108b1bb8ef2ad62f006",
+                "wType": "Label"
+            }
+        },
+        "lblAccountNumber": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "ge1c73760967495cb00c213cdf7255b3",
+                "srcKUID": "c6da0e1e091e457281cf0a7ad6e63c18",
+                "wType": "Label"
+            }
+        },
+        "lblAccountNumberHeading": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "bb648fcd333a4bd8b6c479a79712972f",
+                "srcKUID": "f243ace8f21d4a98bd3c1d6f7a4fb84a",
+                "wType": "Label"
+            },
+            "i18n_text": "kony.mb.transaction.check"
+        },
+        "lblCurrency": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "f7040c3d08d0436c9db3429d2e5b157b",
+                "srcKUID": "c647af4c16924c4daab1625b2ff67273",
+                "wType": "Label"
+            },
+            "isVisible": false
+        }
+    },
+    "id": "Details",
+    "info": null,
+    "iscustomlayout": false,
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "h5ce319c215d44b5b92734170f80466a",
+    "layouttype": 2,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "flxBackUploaded",
+    "pf": "frmUploadCheckImages",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "snaptogrid": true,
+    "sourceUserWidget": "bcf10d5a40634ed190f4a86f80543ea3",
+    "wType": "UserWidgetInstance"
+}

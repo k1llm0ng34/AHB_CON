@@ -1,0 +1,135 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "lblLeft": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "From"
+            },
+            "lblRight": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Current account 12334456778"
+            }
+        },
+        {
+            "lblLeft": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Date of payment"
+            },
+            "lblRight": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "23/10/2018"
+            }
+        },
+        {
+            "lblLeft": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Contract reference"
+            },
+            "lblRight": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "90234568"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "50%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "90%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "counter": "02",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segPastPaymentDetails",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "ia81bc1de16940288c46d52ce87d43ce",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "flxMainContainer",
+    "pf": "frmPastPaymentDetails",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainselection": false,
+    "rowTemplateId": "a8299cf044bc46f9ad752f24c41cae6e",
+    "rowcounter": 2,
+    "rowfocusskin": "sec47134c53840738acea176209ff716",
+    "rowskin": "s18472307db04580a2a9cb6f4681ebec",
+    "rowtemplate": "flxPastPaymentDetails",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "s65e8b0a8be54624ac979cda71a22cac",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorrequired": false,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "flxMain": "flxMain",
+        "flxPastPaymentDetails": "flxPastPaymentDetails",
+        "flxSeparator": "flxSeparator",
+        "lblLeft": "lblLeft",
+        "lblRight": "lblRight"
+    },
+    "zindex": 1
+}

@@ -1,0 +1,33 @@
+{
+    "AS_FlexContainer_f380b4075aee46fda4822ea69030950a": {
+        "id": "AS_FlexContainer_f380b4075aee46fda4822ea69030950a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "KUID": "gf8dcbafa7a14a42b47e445cfa00de48",
+            "name": "frmAHBRegCardNumber",
+            "platform": null,
+            "type": "forms"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__c16746647a6347d7832f122e1c45b533",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.captureTbxInput();",
+            "parentId": null,
+            "callbackType": null
+        }, {
+            "id": "INVOKE_FUNCTION___i96a88048e4a47e098a8e3d882d0e67c",
+            "type": "INVOKE_FUNCTION",
+            "display": "setKeypadChar",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": true,
+            "source": "controller"
+        }]
+    }
+}

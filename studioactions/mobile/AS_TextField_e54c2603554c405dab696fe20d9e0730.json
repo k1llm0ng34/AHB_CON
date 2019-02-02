@@ -1,0 +1,21 @@
+{
+    "AS_TextField_e54c2603554c405dab696fe20d9e0730": {
+        "id": "AS_TextField_e54c2603554c405dab696fe20d9e0730",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "contextObj": {
+            "name": "frmAHBRegConfirmOTP",
+            "type": "forms",
+            "platform": "",
+            "KUID": "b62eab17528a4a629e9e3ab2371b9661"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "58.31%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s966eaf1ea1441148b4828270a782f8b",
+    "_top_": {
+        "type": "string",
+        "value": "56dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "canUpdateUI": true,
+    "children": [
+        "flxEnterPhoneNumberHeader",
+        "flxInputPhoneNumber",
+        "btnVerifyPhoneNumber"
+    ],
+    "clipbounds": false,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "flxMainContainer",
+    "info": null,
+    "iphone": {
+        "autogrowMode": 0,
+        "height": {
+            "type": "string",
+            "value": "66.42%"
+        },
+        "top": {
+            "type": "string",
+            "value": "4dp"
+        }
+    },
+    "isvisible": true,
+    "kuid": "ic8fb7d57ba44e7cb35b8fe04ae5510e",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "frmOBSignInWithPhoneNumber",
+    "pf": "frmOBSignInWithPhoneNumber",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

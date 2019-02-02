@@ -1,0 +1,59 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "90%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "2%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        5,
+        1,
+        5,
+        1
+    ],
+    "_skin_": "sf02f5e3d52d477f980819bbf37899a2",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "40%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sf02f5e3d52d477f980819bbf37899a2",
+    "id": "btnPin",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "iscustomlayout": true,
+    "isvisible": true,
+    "kuid": "c50109beb2964a85841fb04b23588355",
+    "name": "kony.ui.Button",
+    "paddinginpixel": false,
+    "parent": "flxSmsPinBtnGroup",
+    "pf": "frmAHBRegAccountNumber",
+    "retaincontentalignment": true,
+    "retainflexpositionproperties": true,
+    "texti18n": "kony.ahb.Registration.Tpin",
+    "wType": "Button",
+    "zindex": 1
+}

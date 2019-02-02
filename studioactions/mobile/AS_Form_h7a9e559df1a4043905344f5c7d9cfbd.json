@@ -1,0 +1,23 @@
+{
+    "AS_Form_h7a9e559df1a4043905344f5c7d9cfbd": {
+        "id": "AS_Form_h7a9e559df1a4043905344f5c7d9cfbd",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAHBRegAccountNumber",
+            "type": "forms",
+            "platform": null,
+            "KUID": "e586e18809144f60b2dbf8ff377c8dab"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_preShow_d7e7e4eac2a14ebf9483f5c350db98db",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.preshow();",
+            "callbackType": null
+        }]
+    }
+}

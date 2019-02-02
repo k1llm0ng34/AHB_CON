@@ -1,0 +1,82 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "",
+    "_right_": {
+        "type": "number",
+        "value": "0"
+    },
+    "_skin_": "s8bcaa1ee71446249f3e707dfcc7d607",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "android": {},
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "focusskin": "s8bcaa1ee71446249f3e707dfcc7d607",
+    "id": "tbxCardNo",
+    "ide_onTextChange": "AS_TextField_h32f11c0e8a346619c4e840f87aa4676",
+    "ide_onTouchStart": "AS_TextField_f5a430e5c0d74a57bcc1c5ac0359d9c4",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "keyboardActionLabel": 4,
+            "showClearButton": false,
+            "showProgressIndicator": false
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "keyboardstyle": "digitpad",
+    "keyboardtype": "A",
+    "kuid": "f80bd8902b1c46b7b0158431d052609d",
+    "maxtextlength": 19,
+    "mode": "N",
+    "name": "kony.ui.TextBox2",
+    "paddinginpixel": false,
+    "parent": "flxEnterCardNo",
+    "pf": "frmTransferAmount",
+    "placeholderskin": "sc7ba661cdd2425eafe493714acf80c2",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "securetextentry": false,
+    "textinputmode": "N",
+    "tooltip": "",
+    "viewtype": "default",
+    "wType": "TextField",
+    "zindex": 1
+}

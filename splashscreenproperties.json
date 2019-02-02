@@ -1,0 +1,45 @@
+{
+    "splashScreen": {
+        "mobile": {
+            "iphone": {
+                "splashImage": "splash.png",
+                "showLoadingIndicator": false,
+                "animationDuration": 6,
+                "splashVideo": "splashahb.mp4"
+            },
+            "android": {
+                "showLoadingIndicator": false,
+                "splashImage": "splash.png",
+                "animationDuration": 3,
+                "backgroundColor": "0a78d1",
+                "splashVideo": "splashahb.mp4"
+            },
+            "winphone8": {},
+            "winphone10": {},
+            "spa": {},
+            "spaip": {},
+            "spaan": {},
+            "spabb": {},
+            "spawinphone8": {},
+            "showLoadingIndicator": false
+        },
+        "tablet": {
+            "ipad": {
+                "landscape": {
+                    "splashImage": "splashland.png"
+                },
+                "splashImage": "splash.png"
+            },
+            "android": {},
+            "windows8": {},
+            "spa": {},
+            "spaipad": {},
+            "spaandroidtablet": {},
+            "spawindowstablet": {}
+        },
+        "desktop": {
+            "desktopweb": {},
+            "kiosk": {}
+        }
+    }
+}

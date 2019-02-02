@@ -1,0 +1,24 @@
+{
+  "android": {
+    "background_image": "radiobuttoninactive.png",
+    "bg_type": "image"
+  },
+  "background_color": "56a9ddff",
+  "bg_type": "one",
+  "border_color": "ffffffff",
+  "border_style": "plain",
+  "border_type": 0,
+  "border_width": 0,
+  "font_color": "ffffffff",
+  "font_name": "Helvetica",
+  "font_size": 148,
+  "font_style": "normal",
+  "font_weight": "normal",
+  "iphone": {
+    "background_image": "radiobuttoninactive.png",
+    "bg_type": "image"
+  },
+  "isDefaultSkin": false,
+  "kuid": "see6e872bd5c455b95f6d46b6d92b0f4",
+  "wType": "Button"
+}

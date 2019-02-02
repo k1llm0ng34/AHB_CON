@@ -1,0 +1,61 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "6.40%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s966eaf1ea1441148b4828270a782f8b",
+    "_top_": {
+        "type": "string",
+        "value": "8.10%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50.00%"
+    },
+    "children": [
+        "btnEnglishLogin",
+        "btnArabicLogin"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "flxLanguageBtnGrouplogin",
+    "info": null,
+    "iscustomlayout": true,
+    "isvisible": true,
+    "kuid": "e6fc70d42a594c7b98a423f7bf954423",
+    "layouttype": 3,
+    "masterType": 1,
+    "name": "kony.ui.FlexContainer",
+    "parent": "flxLoginContent",
+    "pf": "frmAHBLanding",
+    "retaincontentalignment": true,
+    "retainflexpositionproperties": true,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1
+}

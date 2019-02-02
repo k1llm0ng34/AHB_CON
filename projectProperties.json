@@ -1,0 +1,242 @@
+{
+    "mwaddrkey": "",
+    "projectCloudGuid": "3bb1986f-bc2e-4e40-baec-44d58993f247",
+    "i18nLayoutConfig": {
+        "ar_AE": {
+            "mirrorFlexPositionProperties": true,
+            "mirrorContentAlignment": true
+        }
+    },
+    "wap_android360_fontsize": "13",
+    "isA11yConfigEnabled": false,
+    "watchos_notificationcentericon_42": "",
+    "wap_android440_fontsize": "15",
+    "defaultlocalekey": "en",
+    "apppackagekey": "",
+    "nativeContainerProperties": {
+        "isEnableJSContainerAndroid": true,
+        "isModified": true,
+        "isEnableJSContaineriOS": true,
+        "isEnableJSContainer": true
+    },
+    "wap_android400_fontsize": "14",
+    "wap_spaandroidtabhdpi_fontsize": "18",
+    "watchos_homeScreen40": "",
+    "cordovaVersionInfo": {
+        "useGlobalCordova": false
+    },
+    "appversionkey": "1.0.3",
+    "project.type": "js",
+    "startupformkey": "b7a115253f334ea8ac2b9be420d6c31c",
+    "wap_bb480_fontsize": "17",
+    "kfAppInfo": {
+        "147abad9-e5d0-4108-ab0b-70743455dc49": {
+            "id": "f4367df6-f7db-43ec-95a6-7772cab66666",
+            "baseId": "f4367df6-f7db-43ec-95a6-7772cab66666",
+            "version": "1.0"
+        },
+        "b8ee081b-5a56-4254-b618-502d0f036f98": {
+            "baseId": "93858ecc-c56f-461a-9996-76f389c621e9",
+            "id": "93858ecc-c56f-461a-9996-76f389c621e9",
+            "version": "1.0"
+        },
+        "29759c1f-35fd-4d70-9232-1ed11e1862fe": {
+            "id": "2aa26e89-9050-4841-b4a1-c340c0490e97",
+            "baseId": "2aa26e89-9050-4841-b4a1-c340c0490e97",
+            "version": "1.0"
+        },
+        "a98c4602-93a3-4735-a59c-43f69b3c8ad8": {
+            "baseId": "9c383ffe-a8f0-4dd0-8243-0e94e79b0115",
+            "id": "9c383ffe-a8f0-4dd0-8243-0e94e79b0115",
+            "version": "1.0"
+        }
+    },
+    "wap_winphone480_fontsize": "12",
+    "enableCustomData": false,
+    "wap_android640_fontsize": "19",
+    "vendornamekey": "AlHilalBank",
+    "wap_android320_fontsize": "12",
+    "createdgaversion": "8.0.5",
+    "watchos_notificationcentericon_38": "",
+    "isMVC": true,
+    "enableactionbar": false,
+    "watchos_shortlooknotificationicon_42": "",
+    "wap_android480_fontsize": "16",
+    "mastersProperties": {
+        "mastersVersion": "2.0.0"
+    },
+    "wap_winphone320_fontsize": "12",
+    "watchos_companionSettings3x29": "",
+    "watchos_longlooknotificationicon_42": "",
+    "appmenu": {
+        "tablet": {
+            "data": [
+                {
+                    "windows8": {
+                        "appBarButtonStyle": "No Style",
+                        "position": "BOTTOM_LEFT"
+                    },
+                    "android": {
+                        "showAsFlag": 0
+                    },
+                    "kuid": "e4d037caea4f4c669a0c46473f1a1368",
+                    "icon": {
+                        "default": "option1.png"
+                    },
+                    "id": "appmenuitemid1",
+                    "title": "Item 1"
+                },
+                {
+                    "windows8": {
+                        "appBarButtonStyle": "No Style",
+                        "position": "BOTTOM_LEFT"
+                    },
+                    "android": {
+                        "showAsFlag": 0
+                    },
+                    "kuid": "c35577b208b3485ba351752537ee5890",
+                    "icon": {
+                        "default": "option2.png"
+                    },
+                    "id": "appmenuitemid2",
+                    "title": "Item 2"
+                },
+                {
+                    "windows8": {
+                        "appBarButtonStyle": "No Style",
+                        "position": "BOTTOM_LEFT"
+                    },
+                    "android": {
+                        "showAsFlag": 0
+                    },
+                    "kuid": "d48f043f8d1e4de1acc02a0ebf6607c1",
+                    "icon": {
+                        "default": "option3.png"
+                    },
+                    "id": "appmenuitemid3",
+                    "title": "Item 3"
+                },
+                {
+                    "windows8": {
+                        "appBarButtonStyle": "No Style",
+                        "position": "BOTTOM_LEFT"
+                    },
+                    "android": {
+                        "showAsFlag": 0
+                    },
+                    "kuid": "b56b4c5099694ba29106a97a6cda8e60",
+                    "icon": {
+                        "default": "option4.png"
+                    },
+                    "id": "appmenuitemid4",
+                    "title": "Item 4"
+                }
+            ]
+        },
+        "desktop": {
+            "data": [
+                {
+                    "kuid": "g9da2288ae554be8ba9bada0e1dea13c",
+                    "icon": {
+                        "default": "option1.png"
+                    },
+                    "id": "appmenuitemid1",
+                    "title": "Item 1"
+                },
+                {
+                    "kuid": "f9292fa5f6cf4df18983dc421019d8a0",
+                    "icon": {
+                        "default": "option2.png"
+                    },
+                    "id": "appmenuitemid2",
+                    "title": "Item 2"
+                },
+                {
+                    "kuid": "cc5f86b097bb4695a21407620e6bec9b",
+                    "icon": {
+                        "default": "option3.png"
+                    },
+                    "id": "appmenuitemid3",
+                    "title": "Item 3"
+                },
+                {
+                    "kuid": "e9e681ea61714ea28521e9880ac7cda3",
+                    "icon": {
+                        "default": "option4.png"
+                    },
+                    "id": "appmenuitemid4",
+                    "title": "Item 4"
+                }
+            ]
+        },
+        "focusskin": "",
+        "osVersion": "iOS7",
+        "wType": "Appmenu",
+        "focusSkin": "",
+        "context": {
+            "channel": "mobile",
+            "platform": "iphone"
+        },
+        "mobile": {
+            "data": []
+        },
+        "skin": "",
+        "osPlatform": ""
+    },
+    "isI18nLayoutConfigEnabled": true,
+    "wap_spaipad_fontsize": "17",
+    "cordovaModified": false,
+    "mwportkey": "",
+    "watchos_watchMarketing1x": "",
+    "mwhttpsportkey": "",
+    "wap_bb440_fontsize": "15",
+    "wap_bb400_fontsize": "14",
+    "appidkey": "AlHilalBank",
+    "statusBarHidden": "false",
+    "wap_bb360_fontsize": "13",
+    "isNewAppWithRespectToAndroidPackageName": "",
+    "wap_spawindowstab_fontsize": "17",
+    "accountCloudGuid": "6ccb3781-d1e7-4758-a4d5-1749b49ddd8b",
+    "defaulttheme": "BlueTheme",
+    "watchos_companionSettings2x29": "",
+    "watchos_shortlooknotificationicon_38": "",
+    "enableResponsive": false,
+    "appaddrkey": "",
+    "appnamekey": "AHB-QA",
+    "currentgaversion": "8.2.1",
+    "enableCordova": false,
+    "wap_bb320_fontsize": "15",
+    "enableMVCExtensions": true,
+    "enableIdForAutomation": true,
+    "wap_bb240_fontsize": "12",
+    "desktopwebbasefontsize": "16",
+    "wap_android240_fontsize": "10",
+    "wap_spaandroidtabldpi_fontsize": "14",
+    "wap_spaandroidtabmdpi_fontsize": "16",
+    "konyVizVersion": "8.2.1",
+    "isDpScaleFactor": true,
+    "prototype": {
+        "PublishMode": "public",
+        "resourceId": "25f4f262-e55c-42a7-823b-06c28e871168",
+        "createdBy": "Gagandeep Singh",
+        "shareGuid": "6XYUM",
+        "createdOn": "2018-01-05T11:58:56.182Z",
+        "createdById": "f48ab8b5-1b45-4b83-bf1d-0f7baa26ef52"
+    },
+    "wap_spaandroidtab_fontsize": "17",
+    "referenceWidth": "375",
+    "winmobileguidkey": "",
+    "APPLICATION_THEME": "default",
+    "ide_appEvents": {
+        "mobile": {
+            "postappinit": "AS_AppEvents_c26b10e9c0764bde8f8f42317331324a",
+            "preappinit": "AS_AppEvents_h4ded27d9dd845f885ad538266976f45",
+            "appservice": "AS_AppEvents_hd4fc1bedd904d29862f6382068c9886"
+        }
+    },
+    "build": "debug",
+    "project_version": "sprint31",
+    "wap_ip_fontsize": "12",
+    "category": "app",
+    "createdVizVersion": "8.0.5"
+}

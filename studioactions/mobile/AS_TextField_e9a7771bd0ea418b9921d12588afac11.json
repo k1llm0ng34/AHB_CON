@@ -1,0 +1,24 @@
+{
+    "AS_TextField_e9a7771bd0ea418b9921d12588afac11": {
+        "id": "AS_TextField_e9a7771bd0ea418b9921d12588afac11",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onDone_a5a293a71d494c1da09efcf1691d7dc4",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onclickAfterOTP",
+            "display": "onclickAfterOTP",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

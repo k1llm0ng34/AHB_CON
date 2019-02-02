@@ -1,0 +1,130 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_children_": [],
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_render_": true,
+    "_skin_": "se28cc5c1bfa437abc8dd58cd5603f3a",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "clipbounds": true,
+    "containerweight": 0,
+    "data": {
+        "bgColor": "#FF6D00",
+        "chartData": {
+            "data": [
+                {
+                    "colorCode": "#1B9ED9",
+                    "label": "Data1",
+                    "value": "40"
+                },
+                {
+                    "colorCode": "#E8672B",
+                    "label": "Data2",
+                    "value": "20"
+                },
+                {
+                    "colorCode": "#76C044",
+                    "label": "Data3",
+                    "value": "20"
+                },
+                {
+                    "colorCode": "#FFC522",
+                    "label": "Data4",
+                    "value": "10"
+                },
+                {
+                    "colorCode": "#97CDED",
+                    "label": "Data5",
+                    "value": "10"
+                }
+            ],
+            "schema": [
+                {
+                    "columnHeaderTemplate": null,
+                    "columnHeaderText": "Label",
+                    "columnHeaderType": "text",
+                    "columnID": "label",
+                    "columnOnClick": null,
+                    "columnText": "Not Defined",
+                    "columnType": "text",
+                    "kuid": "c8434b6cbed443e6a6167d99e8c3bdcb"
+                },
+                {
+                    "columnHeaderTemplate": null,
+                    "columnHeaderText": "Value",
+                    "columnHeaderType": "text",
+                    "columnID": "value",
+                    "columnOnClick": null,
+                    "columnText": "Not Defined",
+                    "columnType": "text",
+                    "kuid": "cddb65c1fe8c429bb5a4b5f93bd171ef"
+                },
+                {
+                    "columnHeaderTemplate": null,
+                    "columnHeaderText": "Color Code",
+                    "columnHeaderType": "text",
+                    "columnID": "colorCode",
+                    "columnOnClick": null,
+                    "columnText": "Not Defined",
+                    "columnType": "text",
+                    "kuid": "f722303b71a8439eae528d9af9856f30"
+                }
+            ]
+        },
+        "chartTitle": " ",
+        "enableChartAnimation": true,
+        "enableLegend": false,
+        "enableStaticPreview": true,
+        "legendFontColor": "#000000",
+        "titleFontColor": "#000000"
+    },
+    "id": "donutchart",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "e38699807bf9419f8e8fd145026cb5f0",
+    "layouttype": 2,
+    "masterType": 1,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "flxDonut",
+    "pf": "frmDashboard",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "snaptogrid": true,
+    "sourceUserWidget": "25d7f63a9f9d460fa5e15e40f1df62b3",
+    "wType": "UserWidgetInstance"
+}

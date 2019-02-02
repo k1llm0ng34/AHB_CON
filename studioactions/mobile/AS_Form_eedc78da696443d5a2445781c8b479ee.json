@@ -1,0 +1,24 @@
+{
+    "AS_Form_eedc78da696443d5a2445781c8b479ee": {
+        "id": "AS_Form_eedc78da696443d5a2445781c8b479ee",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAHBRegCardNumber",
+            "type": "forms",
+            "platform": "",
+            "KUID": "gf8dcbafa7a14a42b47e445cfa00de48"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__cf9cb3255b2f4ac1a71b11a684e97293",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.landingPreshow();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

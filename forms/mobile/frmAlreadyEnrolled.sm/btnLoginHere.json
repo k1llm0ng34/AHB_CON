@@ -1,0 +1,55 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_skin_": "sc61e719c72447bf9f14db24bea23eb3",
+    "_text_": "LOGIN HERE",
+    "_top_": {
+        "type": "string",
+        "value": "85dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {
+        "focusSkin": "s31beeb1acb948a9ab9cfb48513042ca"
+    },
+    "displaytext": true,
+    "id": "btnLoginHere",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "aec62227414249f2a96536728ada525e",
+    "name": "kony.ui.Button",
+    "parent": "flxSecurityCheckOptions",
+    "pf": "frmAlreadyEnrolled",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1,
+    "texti18n": "kony.mb.AlreadyEnrolled.LoginHere"
+}

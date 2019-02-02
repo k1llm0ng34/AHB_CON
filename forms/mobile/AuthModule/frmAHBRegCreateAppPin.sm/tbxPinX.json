@@ -1,0 +1,79 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        3,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "Placeholder",
+    "_skin_": "sa44ac58b12c476a8c0f3b4de12ea3f4",
+    "_text_": "",
+    "_width_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "android": {
+        "psp": {
+            "keyboardActionLabel": 4
+        }
+    },
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "80.00%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "17.02%"
+    },
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "focusskin": "s70dae761f9c4615bc28e4536b8a255f",
+    "id": "tbxPinX",
+    "ide_onTextChange": "AS_TextField_b0e2c423bfd547c08bdc08160b14c182",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "keyboardActionLabel": 4
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "keyboardactionlabel": 4,
+    "keyboardstyle": "digitpad",
+    "keyboardtype": "A",
+    "kuid": "da4dbf11477145a69852b9156c65546c",
+    "maxtextlength": 4,
+    "mode": "N",
+    "name": "kony.ui.TextBox2",
+    "parent": "frmAHBRegCreateAppPin",
+    "pf": "frmAHBRegCreateAppPin",
+    "placeholderskin": "sc7ba661cdd2425eafe493714acf80c2",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "securetextentry": false,
+    "textinputmode": "N",
+    "tooltip": "",
+    "viewtype": "default",
+    "wType": "TextField",
+    "zindex": 1
+}

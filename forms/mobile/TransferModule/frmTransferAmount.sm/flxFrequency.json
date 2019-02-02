@@ -1,0 +1,124 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_children_": [],
+    "_height_": {
+        "type": "string",
+        "value": "15%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_render_": true,
+    "_skin_": "s7b436962d6a4647b197083ac7d03d39",
+    "_top_": {
+        "type": "string",
+        "value": "2%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "areflexpropsreferenced": false,
+    "canUpdateUI": true,
+    "clipbounds": true,
+    "containerweight": 0,
+    "dataDiffs": {
+        "btnChange": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "a7797ba371834c00b60723d527a9e8e4",
+                "srcKUID": "jff67cb5ea174a2da92a1940f944078a",
+                "wType": "Button"
+            },
+            "i18n_text": "kony.mb.common.change"
+        },
+        "flxPartTwo": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "fb14cc8c80cd4aea8978b663c8474857",
+                "srcKUID": "b9c72c67a91e4480a1bae2632e5cedca",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxSeparators": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "bf6d137e3ef5464a98d94c74a8742416",
+                "srcKUID": "e5c4d74966064756aad9539339badced",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxTransferDetails": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "a4fe95db2d31431c929b99c2754f19f9",
+                "srcKUID": "g33a33d8c9ca4194b467c9f7d65af3e2",
+                "wType": "FlexContainer"
+            },
+            "height": {
+                "Default": {
+                    "type": "string",
+                    "value": "15%"
+                }
+            },
+            "top": {
+                "Default": {
+                    "type": "string",
+                    "value": "2%"
+                }
+            }
+        },
+        "lblTransferDetailType": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "ef1dec3c23674d80a56263144a0bb2ca",
+                "srcKUID": "b595ee90f6514c49b5939bc0ff02650b",
+                "wType": "Label"
+            }
+        },
+        "lblTransferDetails": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "b0869cf243b94ab29a08e05aa7f2d981",
+                "srcKUID": "ca2ab3ea991d4997b3796f8444e35c5c",
+                "wType": "Label"
+            },
+            "i18n_text": "kony.mb.transaction.frequency",
+            "text": "Frequency"
+        }
+    },
+    "id": "flxFrequency",
+    "info": null,
+    "iscustomlayout": false,
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "a4fe95db2d31431c929b99c2754f19f9",
+    "layouttype": 2,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "flxChangeValues",
+    "pf": "frmTransferAmount",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "snaptogrid": true,
+    "sourceUserWidget": "g33a33d8c9ca4194b467c9f7d65af3e2",
+    "wType": "UserWidgetInstance"
+}

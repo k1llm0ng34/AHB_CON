@@ -1,0 +1,64 @@
+{
+    "NativeFunctionAPI": {
+        "iOS": {
+            "11.0": {
+                "Kony_SyncV2-iOS-11.0": {
+                    "title": "Kony_SyncV2",
+                    "platform": "iOS",
+                    "os": "11.0",
+                    "url": ".\\\\KonyMobileBanking\\\\nativebindings\\\\iOS\\\\11.0\\\\Kony_SyncV2-iOS-11.0.zip",
+                    "filepath": "D:\\AHB_Workspaces\\AHB_Krishna\\KonyMobileBanking\\nativebindings\\iOS\\11.0\\Kony_SyncV2-iOS-11.0.zip",
+                    "enable": true
+                },
+                "Kony_SDKCommons-iOS-11.0": {
+                    "title": "Kony_SDKCommons",
+                    "platform": "iOS",
+                    "os": "11.0",
+                    "url": "D:\\8.2\\Enterprise\\Kony_Visualizer_Enterprise\\configuration\\org.eclipse.osgi\\bundles\\485\\1\\.cp\\resources\\sdk\\nativeBindings\\Kony_SDKCommons-iOS-11.0.zip",
+                    "filepath": "D:\\AHB_Workspaces\\AHB_Krishna\\KonyMobileBanking\\nativebindings\\iOS\\11.0\\Kony_SDKCommons-iOS-11.0.zip",
+                    "enable": true
+                }
+            }
+        },
+        "Android": {
+            "4.0": {
+                "Kony_SyncV2-Android-4.0": {
+                    "title": "Kony_SyncV2",
+                    "platform": "Android",
+                    "os": "4.0",
+                    "url": ".\\\\KonyMobileBanking\\\\nativebindings\\\\Android\\\\4.0\\\\Kony_SyncV2-Android-4.0.zip",
+                    "filepath": "D:\\AHB_Workspaces\\AHB_Krishna\\KonyMobileBanking\\nativebindings\\Android\\4.0\\Kony_SyncV2-Android-4.0.zip",
+                    "enable": true
+                },
+                "Kony_SDKCommons-Android-4.0": {
+                    "title": "Kony_SDKCommons",
+                    "platform": "Android",
+                    "os": "4.0",
+                    "url": "D:\\8.2\\Enterprise\\Kony_Visualizer_Enterprise\\configuration\\org.eclipse.osgi\\bundles\\485\\1\\.cp\\resources\\sdk\\nativeBindings\\Kony_SDKCommons-Android-4.0.zip",
+                    "filepath": "D:\\AHB_Workspaces\\AHB_Krishna\\KonyMobileBanking\\nativebindings\\Android\\4.0\\Kony_SDKCommons-Android-4.0.zip",
+                    "enable": true
+                },
+                "java.util.logging-Android-4.0": {
+                    "title": "java.util.logging",
+                    "platform": "Android",
+                    "os": "4.0",
+                    "url": "D:\\MF_Connectivity_Check\\.nativebindings\\Android\\4.0\\java.util.logging-Android-4.0.zip",
+                    "filepath": "/Users/b.s.k.vantakala/KonyVizEWS/KonyMobileBanking/nativebindings/Android/4.0/java.util.logging-Android-4.0.zip",
+                    "enable": true
+                }
+            },
+            "API level 23": {
+                "java.util.logging-Android-API level 23": {
+                    "title": "java.util.logging",
+                    "platform": "Android",
+                    "os": "API level 23",
+                    "url": "/visualizer/nativeframeworks/android/1.0/java.util.logging-Android-4.0.zip",
+                    "checksum": "e2a7196c539405f73620ee17f81e422c17ba5751",
+                    "projectName": "konymobilebankingkh1755",
+                    "filepath": "/Volumes/DATA/git/konymobilebankingkh1755/nativebindings/Android/API level 23/java.util.logging-Android-4.0.zip",
+                    "enable": true
+                }
+            }
+        }
+    }
+}

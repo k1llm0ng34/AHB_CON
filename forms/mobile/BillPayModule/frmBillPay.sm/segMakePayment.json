@@ -1,0 +1,158 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bounces_": false,
+    "_data_": [
+        {
+            "lblNumber": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "05566774433222"
+            },
+            "lblRightArrow": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "i18nkey": "kony.ahb.icons.arrowright",
+                "text": ""
+            },
+            "lblServiceOperator": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "My Mobile"
+            }
+        },
+        {
+            "lblNumber": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "05566774433222"
+            },
+            "lblRightArrow": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "i18nkey": "kony.ahb.icons.arrowright",
+                "text": ""
+            },
+            "lblServiceOperator": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "My Mobile"
+            }
+        },
+        {
+            "lblNumber": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "05566774433222"
+            },
+            "lblRightArrow": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "i18nkey": "kony.ahb.icons.arrowright",
+                "text": ""
+            },
+            "lblServiceOperator": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "My Mobile"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "48%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "90%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "counter": "03",
+    "enabledictionary": true,
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segMakePayment",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "bounces": false,
+            "enableDictionary": true,
+            "indicator": "none",
+            "progressIndicatorColor": "grey"
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": false,
+    "kuid": "d9075635ab134e33a6b9cc1a20e9a1c2",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "flxMainContainer",
+    "pf": "frmBillPay",
+    "progressindicatorcolor": "grey",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainselection": false,
+    "rowTemplateId": "a9094a1c585f4e5db2ab00f07ee1ed45",
+    "rowcounter": 3,
+    "rowfocusskin": "sec47134c53840738acea176209ff716",
+    "rowskin": "s18472307db04580a2a9cb6f4681ebec",
+    "rowtemplate": "flxContainer",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "s65e8b0a8be54624ac979cda71a22cac",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorrequired": false,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "flxContainer": "flxContainer",
+        "flxFirstRow": "flxFirstRow",
+        "flxSecondRow": "flxSecondRow",
+        "flxSeparator": "flxSeparator",
+        "lblNumber": "lblNumber",
+        "lblRightArrow": "lblRightArrow",
+        "lblServiceOperator": "lblServiceOperator"
+    },
+    "zindex": 10
+}

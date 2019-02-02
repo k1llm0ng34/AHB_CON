@@ -1,0 +1,24 @@
+{
+    "AS_Form_h49d42bd617145f2b3d677ba8c1b4aea": {
+        "id": "AS_Form_h49d42bd617145f2b3d677ba8c1b4aea",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAHBRegAccountNumber",
+            "type": "forms",
+            "platform": "",
+            "KUID": "e586e18809144f60b2dbf8ff377c8dab"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__bfe775d4b2024e248879f7fb5e5cf381",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.view.tbxAccountNo.setFocus(true);",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

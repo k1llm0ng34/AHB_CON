@@ -1,0 +1,91 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizListBox",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "25dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "",
+    "_right_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_skin_": "sf0a5cb0daca42de9c60f087ac7cc2e9",
+    "_top_": {
+        "type": "string",
+        "value": "2dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "68%"
+    },
+    "android": {
+        "tickedImage": "radiobtnselectedorange.png",
+        "untickedImage": "radiobtnunselectedorange.png"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 6,
+    "dropdownimage": "ahbarrowdown.png",
+    "focusskin": "sf0a5cb0daca42de9c60f087ac7cc2e9",
+    "groupcells": false,
+    "id": "lbxFromAcc",
+    "info": null,
+    "iphone": {
+        "dropDownImage": "listboxarw.png"
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "aadd28e129004a3d95f7bee51571ab58",
+    "masterdata": [
+        [
+            "lb1",
+            "Current account 1234567890"
+        ],
+        [
+            "lb2",
+            "Placeholder Two"
+        ],
+        [
+            "lb3",
+            "Placeholder Three"
+        ]
+    ],
+    "name": "kony.ui.ListBox",
+    "paddinginpixel": false,
+    "parent": "flxFromAcc",
+    "pf": "frmBillPayAmount",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "selectedkeys": null,
+    "selectedkeyvalue": null,
+    "selectedkeyvalues": null,
+    "size": 18,
+    "tickedimage": "radiobtnselectedorange.png",
+    "untickedimage": "radiobtnunselectedorange.png",
+    "viewconfig": {
+        "toggleViewConfig": {
+            "viewStyle": 0
+        }
+    },
+    "viewtype": 0,
+    "wType": "ListBox",
+    "zindex": 1
+}

@@ -1,0 +1,54 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        6,
+        2,
+        6
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "1dp"
+    },
+    "_skin_": "seb534dd2506414d96447385c533fa7e",
+    "_text_": "Drive me there",
+    "_top_": {
+        "type": "string",
+        "value": "2dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 6,
+    "displaytext": true,
+    "focusskin": "seb534dd2506414d96447385c533fa7e",
+    "id": "btnDriveme",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "f7c1f3733ac74e7b9cf453ac74a959e0",
+    "name": "kony.ui.Button",
+    "paddinginpixel": false,
+    "parent": "flxName",
+    "pf": "frmLocationMap",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "texti18n": "kony.ahb.settings.DriveMeThere",
+    "wType": "Button",
+    "zindex": 1
+}

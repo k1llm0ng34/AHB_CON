@@ -1,0 +1,95 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_children_": [],
+    "_height_": {
+        "type": "string",
+        "value": "4%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_render_": true,
+    "_skin_": "s7b436962d6a4647b197083ac7d03d39",
+    "_top_": {
+        "type": "string",
+        "value": "2.02%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "areflexpropsreferenced": false,
+    "canUpdateUI": true,
+    "clipbounds": true,
+    "containerweight": 0,
+    "dataDiffs": {
+        "MainHeader": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "ef1970cf45e2490990388459216b5a1a",
+                "srcKUID": "he780af9d3984fc1a29132251365a815",
+                "wType": "FlexContainer"
+            }
+        },
+        "btnBack": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "hc06f5b469af4e08bf07a5093ce094f2",
+                "srcKUID": "i1018edf7ba649969d0dd301de3cef24",
+                "wType": "Button"
+            }
+        },
+        "flxBack": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "d29ffb5eae584e61ab66cc73132fe185",
+                "srcKUID": "ba92e3f9def645638752e4594986322b",
+                "wType": "FlexContainer"
+            }
+        },
+        "lblHeading": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "f66c60c8a61a45bd8275b49426a2079f",
+                "srcKUID": "ecef4663447e489183c61ee5c707fe89",
+                "wType": "Label"
+            },
+            "i18n_text": "kony.mb.Transfers.ToAccount"
+        }
+    },
+    "id": "MainHeader",
+    "info": null,
+    "iscustomlayout": false,
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "ef1970cf45e2490990388459216b5a1a",
+    "layouttype": 2,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "frmTransfersToAccount",
+    "pf": "frmTransfersToAccount",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "snaptogrid": true,
+    "sourceUserWidget": "he780af9d3984fc1a29132251365a815",
+    "wType": "UserWidgetInstance",
+    "zindex": 250
+}

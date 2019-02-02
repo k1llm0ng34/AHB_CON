@@ -1,0 +1,54 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "2%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_skin_": "s6d5c200a9fd44b494a6a0c76fc758a2",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "15%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s6d5c200a9fd44b494a6a0c76fc758a2",
+    "id": "btnArabic",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "h5cb7cb370164d0fb86325aa0f9923a6",
+    "name": "kony.ui.Button",
+    "paddinginpixel": false,
+    "parent": "flxLanguageBtnGroup",
+    "pf": "frmAHBRegLanding",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "texti18n": "kony.AHB.Login.Arabic",
+    "wType": "Button",
+    "zindex": 1
+}

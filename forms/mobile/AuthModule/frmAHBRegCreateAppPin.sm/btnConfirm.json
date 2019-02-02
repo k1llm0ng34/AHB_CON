@@ -1,0 +1,60 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "42dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s4309586d2654a128aa7d579c7a2d632",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "8%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "83%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s4309586d2654a128aa7d579c7a2d632",
+    "id": "btnConfirm",
+    "ide_onClick": "AS_Button_c0f36b85412241f692e7a1e34cefa062",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "i9feb5692b45432fb9966eee6a3bcc88",
+    "name": "kony.ui.Button",
+    "parent": "flxCreatePinContainer",
+    "pf": "frmAHBRegCreateAppPin",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "showprogressindicator": false,
+    "texti18n": "kony.AHB.Login.confirm",
+    "wType": "Button",
+    "zindex": 1
+}

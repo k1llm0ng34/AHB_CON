@@ -1,0 +1,130 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "lblLeft": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "SamWhite"
+            },
+            "lblRight": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Beneficiary Name"
+            }
+        },
+        {
+            "lblLeft": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "SamWhite"
+            },
+            "lblRight": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Beneficiary Name"
+            }
+        },
+        {
+            "lblLeft": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "SamWhite"
+            },
+            "lblRight": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Beneficiary Name"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "15dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "02",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "SegBeneficiaryDetails",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "none"
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "d24f57c8ad2f4891a171d6438ab9da52",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "flxMain",
+    "pf": "frmBillPayDetails",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainselection": false,
+    "rowTemplateId": "a2eb3d3bbd0b4673b466d721af8f3da5",
+    "rowcounter": 2,
+    "rowfocusskin": "sec47134c53840738acea176209ff716",
+    "rowskin": "s18472307db04580a2a9cb6f4681ebec",
+    "rowtemplate": "flxMainContainer",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "s65e8b0a8be54624ac979cda71a22cac",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorrequired": false,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "flxMainContainer": "flxMainContainer",
+        "flxRow": "flxRow",
+        "flxSeparator": "flxSeparator",
+        "lblLeft": "lblLeft",
+        "lblRight": "lblRight"
+    },
+    "zindex": 1
+}

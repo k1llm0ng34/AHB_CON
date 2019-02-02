@@ -1,0 +1,83 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s966eaf1ea1441148b4828270a782f8b",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "children": [
+        "flxDowmPayment",
+        "lblFinanceDetailsDivisionLine3",
+        "flxOverdueAmount",
+        "lblFinanceDetailsDivisionLine4",
+        "flxDisbursedAmount",
+        "lblFinanceDetailsDivisionLine5",
+        "flxNumberOfPayment",
+        "lblFinanceDetailsDivisionLine6",
+        "flxRemainingNumOfPayment",
+        "lblFinanceDetailsDivisionLine7",
+        "flxPaymentFrequency",
+        "lblFinanceDetailsDivisionLine8",
+        "flxStartDate",
+        "lblFinanceDetailsDivisionLine9",
+        "flxOpeningBookDate",
+        "lblFinanceDetailsDivisionLine10",
+        "flxFirstPayment1",
+        "lblFinanceDetailsDivisionLine11",
+        "flxFirstPayment2",
+        "lblFinanceDetailsDivisionLine12",
+        "flxRepaymentAccNumber"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "flxFinanceDetailsDivisionInner",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "f29495b9f6c44d3b8a15395f8c483ba1",
+    "layouttype": 4,
+    "name": "kony.ui.FlexContainer",
+    "parent": "flxFinanceDetailsDivision2",
+    "pf": "frmAccountInfo",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

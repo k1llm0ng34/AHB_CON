@@ -1,0 +1,24 @@
+{
+    "AS_Form_gf75f11b3cc84abda7b211986c2a8c21": {
+        "id": "AS_Form_gf75f11b3cc84abda7b211986c2a8c21",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "KUID": "b62eab17528a4a629e9e3ab2371b9661",
+            "name": "frmAHBRegConfirmOTP",
+            "platform": "",
+            "type": "forms"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__bd2047447638421c8c16d15bc2ecfa95",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.landingPreshow();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

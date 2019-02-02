@@ -1,0 +1,21 @@
+
+{
+     "NSContactsUsageDescription"   : "Please give a suitable description on usage of this feature in the app", 
+    "NSAppTransportSecurity" :
+    {
+        "NSAllowsArbitraryLoads" : true ,
+        "NSExceptionDomains" :
+            {
+                "example.com" :
+                    {
+                        "NSIncludesSubdomains" : true ,
+                        "NSExceptionAllowsInsecureHTTPLoads" : true
+                    }
+            }
+    } ,
+ 
+    "NSCameraUsageDescription" : "This is a dummy description",
+	"NSFaceIDUsageDescription" : "",
+	"NSPhotoLibraryUsageDescription" : "this is a dummy"
+}
+

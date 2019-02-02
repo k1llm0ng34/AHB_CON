@@ -1,0 +1,76 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "60dp"
+    },
+    "_skin_": "s12c9bf0807c41c194f0f65aea1b6ce9",
+    "_text_": "",
+    "_wrapping_": 2,
+    "android": {
+        "maxNumberOfLines": 1,
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        },
+        "textTruncatePosition": 3
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "40%"
+    },
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "lblTransferHeader",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "maxNumberOfLines": 1,
+        "psp": {
+            "wrapping": 2
+        },
+        "textTruncatePosition": 3
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "bc96fc154ae94bc2a6c3074b69090dfd",
+    "maxnumberoflines": 1,
+    "name": "kony.ui.Label",
+    "parent": "flxTransferHeader",
+    "pf": "frmTransfers",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "texti18n": "kony.ahb.transfers.movemoney",
+    "textstyle": {},
+    "texttruncateposition": 3,
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

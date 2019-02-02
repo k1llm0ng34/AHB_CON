@@ -1,0 +1,24 @@
+{
+    "AS_FlexContainer_g61ee5f3f05f4cc6b80fd22bb92f1487": {
+        "id": "AS_FlexContainer_g61ee5f3f05f4cc6b80fd22bb92f1487",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAHBRegCreateAppPin",
+            "type": "forms",
+            "platform": "",
+            "KUID": "f495e9c99d894696b61085af36ceca1f"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__da92664816504290a16eb20533465833",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.onBackFrmAHBRegCreatePin();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizListBox",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        3,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "Please Select",
+    "_right_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_skin_": "sf0a5cb0daca42de9c60f087ac7cc2e9",
+    "_width_": {
+        "type": "string",
+        "value": "65%"
+    },
+    "android": {
+        "nativeListFieldFocusSkin": "sf0a5cb0daca42de9c60f087ac7cc2e9",
+        "nativeListFieldSkin": "sf0a5cb0daca42de9c60f087ac7cc2e9",
+        "viewType": 4
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "containerweight": 100,
+    "contentalignment": 6,
+    "disabledSkins": {},
+    "dropdownimage": "ahbarrowdown1.png",
+    "focusskin": "sf0a5cb0daca42de9c60f087ac7cc2e9",
+    "groupcells": false,
+    "id": "lbxFromAccountData",
+    "info": null,
+    "iphone": {
+        "dropDownImage": "listboxarw1.png"
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "g52b0cc6c696473c9e0294114461eaac",
+    "masterdata": [
+        [
+            "lb1",
+            "xxxx xxxx xxxx xxxx xxxx xxxx",
+            "kony.AHB.ALERT.MQ_201"
+        ],
+        [
+            "lb2",
+            "Placeholder Two"
+        ],
+        [
+            "lb3",
+            "Placeholder Three"
+        ]
+    ],
+    "name": "kony.ui.ListBox",
+    "paddinginpixel": false,
+    "parent": "flxAccountGroup",
+    "pf": "frmTransferAmount",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "selectedkeys": null,
+    "selectedkeyvalue": null,
+    "selectedkeyvalues": null,
+    "size": 18,
+    "tickedimage": "radiobtnselectedorange.png",
+    "untickedimage": "radiobtnunselectedorange.png",
+    "viewtype": 0,
+    "wType": "ListBox",
+    "zindex": 1
+}

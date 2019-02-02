@@ -1,0 +1,27 @@
+{
+    "AS_TextField_dd1d34dbdd27463da700e4ebe5627081": {
+        "id": "AS_TextField_dd1d34dbdd27463da700e4ebe5627081",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "contextObj": {
+            "name": "frmAHBRegConfirmOTP",
+            "type": "forms",
+            "platform": "",
+            "KUID": "b62eab17528a4a629e9e3ab2371b9661"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__a48bb528ba9044028cd81fa393ede9f9",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.onclickAfterOTP();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

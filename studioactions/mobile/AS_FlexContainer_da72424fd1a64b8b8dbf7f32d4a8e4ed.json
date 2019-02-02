@@ -1,0 +1,24 @@
+{
+    "AS_FlexContainer_da72424fd1a64b8b8dbf7f32d4a8e4ed": {
+        "id": "AS_FlexContainer_da72424fd1a64b8b8dbf7f32d4a8e4ed",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAHBRegCreateAppPin",
+            "type": "forms",
+            "platform": "",
+            "KUID": "f495e9c99d894696b61085af36ceca1f"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__aa754a6fa29840e4b366e478c3a8290d",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.initialSkins();\nthis.setTextBoxPinFocus(\"flxPinReset\");",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

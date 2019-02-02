@@ -1,0 +1,61 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "2%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        3,
+        1,
+        3,
+        1
+    ],
+    "_skin_": "s6da580cfe7244a0bcf3d344f435ddfa",
+    "_text_": "",
+    "_width_": {
+        "type": "string",
+        "value": "30%"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s6da580cfe7244a0bcf3d344f435ddfa",
+    "id": "btnChecksView",
+    "ide_onClick": "AS_Button_ab1dd123f812432597b2474ecfb3125b",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "iscustomlayout": true,
+    "isvisible": true,
+    "kuid": "f71faa73584b4e0dab4f12eb901e44df",
+    "name": "kony.ui.Button",
+    "paddinginpixel": false,
+    "parent": "flxOperativeAccounts",
+    "pf": "frmAccountDetails",
+    "retaincontentalignment": true,
+    "retainflexpositionproperties": true,
+    "showprogressindicator": false,
+    "texti18n": "kony.ahb.accountDetails.checksView",
+    "wType": "Button",
+    "zindex": 1
+}

@@ -1,0 +1,88 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizListBox",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "25dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "",
+    "_right_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_skin_": "sf0a5cb0daca42de9c60f087ac7cc2e9",
+    "_top_": {
+        "type": "string",
+        "value": "2dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "55%"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 6,
+    "dropdownimage": "ahbarrowdown.png",
+    "focusskin": "sf0a5cb0daca42de9c60f087ac7cc2e9",
+    "groupcells": false,
+    "id": "lbxServiceType",
+    "info": null,
+    "iphone": {
+        "dropDownImage": "listboxarw.png"
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "b87edcc9dd7346c486d7f78c3309835b",
+    "masterdata": [
+        [
+            "lb1",
+            "Zakat"
+        ],
+        [
+            "lb2",
+            "Zakat2"
+        ],
+        [
+            "lb3",
+            "Zakat3"
+        ]
+    ],
+    "name": "kony.ui.ListBox",
+    "paddingLocked": false,
+    "paddinginpixel": false,
+    "parent": "flxServiceType",
+    "pf": "frmBillPayAmount",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "selectedkeys": null,
+    "selectedkeyvalue": null,
+    "selectedkeyvalues": null,
+    "size": 18,
+    "tickedimage": "radiobtnselectedorange.png",
+    "untickedimage": "radiobtnunselectedorange.png",
+    "viewconfig": {
+        "toggleViewConfig": {
+            "viewStyle": 0
+        }
+    },
+    "viewtype": 0,
+    "wType": "ListBox",
+    "zindex": 1
+}

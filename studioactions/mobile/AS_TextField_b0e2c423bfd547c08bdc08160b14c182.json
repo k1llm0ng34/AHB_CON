@@ -1,0 +1,27 @@
+{
+    "AS_TextField_b0e2c423bfd547c08bdc08160b14c182": {
+        "id": "AS_TextField_b0e2c423bfd547c08bdc08160b14c182",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "contextObj": {
+            "name": "frmAHBRegCreateAppPin",
+            "type": "forms",
+            "platform": "",
+            "KUID": "f495e9c99d894696b61085af36ceca1f"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__c19c8ce84fc645a58973b8049ddc1d46",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.populatePin(\"flxRePinText\",\"flxRePinIndecator\",\"flxReEnterPin\");",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

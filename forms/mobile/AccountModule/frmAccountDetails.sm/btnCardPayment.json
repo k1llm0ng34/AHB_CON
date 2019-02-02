@@ -1,0 +1,60 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "2%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        4,
+        1,
+        4,
+        1
+    ],
+    "_skin_": "s6da580cfe7244a0bcf3d344f435ddfa",
+    "_text_": "",
+    "_width_": {
+        "type": "string",
+        "value": "46%"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s6da580cfe7244a0bcf3d344f435ddfa",
+    "id": "btnCardPayment",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "iscustomlayout": true,
+    "isvisible": true,
+    "kuid": "b8351f124e8949d3af03f8e5e6304277",
+    "name": "kony.ui.Button",
+    "paddinginpixel": false,
+    "parent": "flxCardDetails",
+    "pf": "frmAccountDetails",
+    "retaincontentalignment": true,
+    "retainflexpositionproperties": true,
+    "showprogressindicator": false,
+    "texti18n": "kony.ahb.accountDetails.cardPayment",
+    "wType": "Button",
+    "zindex": 1
+}
