@@ -137,6 +137,22 @@
                     </execution>
                 </executions>
             </plugin>
-        </plugins>
+     <plugin>
+        <groupId>com.softwaresecured.reshift</groupId>
+        <artifactId>maven-plugin</artifactId>
+        <version>1.0.10</version>
+        <configuration>
+        <token>token generated</token>
+        </configuration>
+        <executions>
+        <execution>
+            <id>execute-analyse</id>
+            <phase>compile</phase>
+            <goals>
+            <goal>analyse</goal>
+            </goals>
+        </execution>
+        </executions>
+    </plugin>    </plugins>
     </build>
 </project>
